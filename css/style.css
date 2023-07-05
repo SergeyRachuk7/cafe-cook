@@ -349,8 +349,8 @@ body {
 } 
 
 .menu {
-  background-image: url('/cafe-cook.github.io/img/menu.jpg');   
-  background-image: url('/img/menu.jpg');
+  /* background-image: url('/cafe-cook.github.io/img/menu.jpg');    */
+  background-image: url('img/menu.jpg');
   background-repeat: no-repeat; 
   background-size: cover; 
   padding-bottom: 100px;
